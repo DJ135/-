@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\86156\source\repos\Project12\Project12\源.cpp(43,11): error C2131: 表达式的计算结果不是常数
+C:\Users\86156\source\repos\Project12\Project12\源.cpp(43,11): message : 因读取超过生命周期的变量而失败
+C:\Users\86156\source\repos\Project12\Project12\源.cpp(43,11): message : 请参见“n”的用法
+C:\Users\86156\source\repos\Project12\Project12\源.cpp(46,13): warning C4552: ”>>“: 未使用表达式结果
